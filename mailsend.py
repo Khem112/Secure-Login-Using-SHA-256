@@ -6,7 +6,7 @@ def sendemail():
     sender_email = "xensprofessionalbeta@gmail.com"
     receiver_email = "xensprofessionalbeta@gmail.com"
     #password = input("Type your password and press enter:")
-    password = "Beta@123"
+    password = ""
     message = """\
     Subject: Hi there
 
